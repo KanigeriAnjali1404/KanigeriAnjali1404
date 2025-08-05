@@ -17,9 +17,3 @@ stats.vercel.app/api?username=anjalicsit&amp;show_icons=true&amp;theme=radical)
 langs/?username=anjalicsit&amp;layout=compact)
 ## �� Connect with Me- ✉️ Email: anjali@example.com- �� LinkedIn: [anjali
 Profile](https://linkedin.com/in/anjali-example)
-https://img.shields.io/badge/:badgeContent
-https://img.shields.io/github/labels/:user/:repo/:name
-https://img.shields.io/w3c-validation/:parser
-![GitHub Stats](https://github-readme-
-stats.vercel.app/api?username=KanigeriAnjali1404&amp;show_icons=true)
-
